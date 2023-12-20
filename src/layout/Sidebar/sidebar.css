@@ -1,0 +1,18 @@
+.side-nav-wrapper li {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+li {
+  padding: 2rem;
+  gap: 3rem;
+}
+.sidebar ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.sidebar li {
+  margin: 0.25rem 0;
+}
